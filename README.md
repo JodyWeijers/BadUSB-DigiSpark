@@ -3,7 +3,7 @@
 Simple script for setting up a reversed shell over TCP or UDP and specific port.
 
 
-## Before you start setup the listener on the remote host ##
+## Before you start setup the listener on the remote host. ##
 
 ~~~~
 Run Netcat
