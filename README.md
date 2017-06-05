@@ -1,5 +1,5 @@
-# BadUSB-DigiSpark-Powercat-reversed-shell
+# BadUSB-DigiSpark Keyboard
 
-Simple script for setting up a reversed shell to remote host, this will only work for the Digispark keyboard.
+Simple script for setting up a reversed shell or execute two powershell scripts see other repository's for more information.
 
 Only use this for learning purposes.
