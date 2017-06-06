@@ -66,4 +66,6 @@ mimikatz # sekurlsa::logonPasswords
 Started this script for a BadUSB Digispark project, script for retreiving wlan profile information and clear text passwords.
 Text file is automatically send to an email address which can be configured in the variables.
 
+***
+
 ### Only use this for learning purposes. ###
