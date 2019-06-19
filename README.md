@@ -1,6 +1,6 @@
 # BadUSB-DigiSpark Keyboard #
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/JodyWeijers/BadUSB-DigiSpark/master/3D/Evil.png">
 </p>
 
