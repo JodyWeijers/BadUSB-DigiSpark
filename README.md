@@ -1,6 +1,8 @@
 # BadUSB-DigiSpark Keyboard #
 
-![alt text](https://ksr-ugc.imgix.net/assets/000/103/753/8e69aa968fcece8a35b644f17b92a939_original.jpg?w=680&fit=max&v=1344375979&auto=format&q=92&s=ca0a704479c3ee828a33780fb2cfd5a6)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JodyWeijers/BadUSB-DigiSpark/master/3D/Evil.png">
+</p>
 
 ### In order to upload the sketches to your DigiSpark you need the following: ###
 
